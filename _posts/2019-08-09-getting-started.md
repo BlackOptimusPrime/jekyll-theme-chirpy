@@ -5,7 +5,7 @@ description: >-
   You will learn how to install, configure, and use LASSO.
 author: prof
 date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Basics, Introduction]
 tags: [getting started]
 pin: true
 media_subpath: '/posts/20180809'
