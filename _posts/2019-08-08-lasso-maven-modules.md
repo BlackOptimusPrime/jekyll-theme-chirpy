@@ -3,7 +3,7 @@ title: Lasso Maven Modules
 description: Description of modules goes here.
 author: cotes
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Modules]
+categories: [Modules]
 tags: [maven]
 pin: true
 math: true
