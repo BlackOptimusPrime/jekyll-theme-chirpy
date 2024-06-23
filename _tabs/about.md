@@ -12,5 +12,5 @@ order: 4
 <iframe
     src="https://jupyterlite.github.io/demo/lab/index.html"
     width="100%"
-    height="100%"
+    height="800px"
 ></iframe>
