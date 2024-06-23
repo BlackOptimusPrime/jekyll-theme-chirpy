@@ -8,15 +8,9 @@ order: 4
 {: .prompt-tip }
 
 <iframe src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python" width="100%" height="600px" style="border:none;"></iframe>
-
-<iframe
-            src="https://your-username.github.io/your-forked-jupyterlite-repo/lab/index.html"
-            width="100%"
-            height="100%"
-        ></iframe>
         
 <iframe
-    src="https://jupyterlite.github.io/demo/notebook/index.html"
+    src="https://jupyterlite.github.io/demo/lab/index.html"
     width="100%"
     height="100%"
 ></iframe>
